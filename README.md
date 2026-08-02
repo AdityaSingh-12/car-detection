@@ -1,2 +1,2 @@
 # Car-detection
-"Car type detection"
+"Car type detection model"
