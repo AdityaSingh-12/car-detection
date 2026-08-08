@@ -23,6 +23,8 @@ OpenCV for real-time camera capture and image processing.
 
 The project is being developed as a core computer-vision component for an AI-based Smart Parking System, where vehicle classification can later be used to determine the most suitable parking slot.
 
+=======
+
 🎯 Key Features
 
 🚘 Real-time vehicle detection
