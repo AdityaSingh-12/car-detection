@@ -1,5 +1,4 @@
 # Car-detection
- HEAD
 "Car type detection"
 
 🚗 AI Car Detection & Classification
