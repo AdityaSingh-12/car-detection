@@ -24,14 +24,24 @@ OpenCV for real-time camera capture and image processing.
 The project is being developed as a core computer-vision component for an AI-based Smart Parking System, where vehicle classification can later be used to determine the most suitable parking slot.
 
 🎯 Key Features
+
 🚘 Real-time vehicle detection
+
 🧠 Custom vehicle classification
+
 📷 Webcam/camera input
+
 ⚡ Real-time OpenCV processing
+
 🔍 Vehicle cropping before classification
+
 📊 Confidence-based predictions
+
 🅿️ Parking-slot compatibility mapping
+
 🔌 Designed for future API/frontend integration
+
 🤖 Extendable to additional vehicle classes
+
 =======
 
